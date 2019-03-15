@@ -1,7 +1,7 @@
 # helloworld
 This is a first Android test!<br><br>
 # 实验内容
-## 验证Activity的生命周期
+*验证Activity的生命周期*
 # 关键代码<br>
 ```
 public class MainActivity extends AppCompatActivity {
